@@ -1,0 +1,883 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.23f1 (c5d91304a876) revision 12966163'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19044.1706; Version 2009; 64bit' Language: 'en' Physical Memory: 16282 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Mehocad/Documents/GitHub/GoogleAkademiProje/Akademi_Proje/Assets
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52497
+Successfully changed project path to: C:/Users/Mehocad/Documents/GitHub/GoogleAkademiProje/Akademi_Proje/Assets
+C:/Users/Mehocad/Documents/GitHub/GoogleAkademiProje/Akademi_Proje/Assets
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.23f1 (c5d91304a876)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Mehocad/Documents/GitHub/GoogleAkademiProje/Akademi_Proje/Assets/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   
+    VRAM:     4055 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56708
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002672 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.749 seconds
+Domain Reload Profiling:
+	ReloadAssembly (749ms)
+		BeginReloadAssembly (73ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (581ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (204ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (201ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (42ms)
+				BeforeProcessingInitializeOnLoad (20ms)
+				ProcessInitializeOnLoadAttributes (99ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006469 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 41.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.365 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1366ms)
+		BeginReloadAssembly (192ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (1096ms)
+			LoadAssemblies (115ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (370ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (387ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (42ms)
+				BeforeProcessingInitializeOnLoad (88ms)
+				ProcessInitializeOnLoadAttributes (233ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1554 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.4 MB.
+System memory in use after: 70.5 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1986.
+Total: 3.677300 ms (FindLiveObjects: 0.159600 ms CreateObjectMapping: 0.055400 ms MarkObjects: 3.316800 ms  DeleteObjects: 0.144400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Sprites
+  artifactKey: Guid(25af6652c61f0ca408f30de47f4e8040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(25af6652c61f0ca408f30de47f4e8040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c911af9fe983fd87d895b265fa9672a') in 0.015988 seconds 
+  Import took 0.020063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 365.118947 seconds.
+  path: Assets/Sprites/House asset bear.png
+  artifactKey: Guid(f6597b487792e9b40a46f83c839daab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset bear.png using Guid(f6597b487792e9b40a46f83c839daab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7aa5528bb4f113b0cd6c3b6c7e58728') in 0.169282 seconds 
+  Import took 0.174374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Sprites/House asset main.png
+  artifactKey: Guid(d184db0d22858c845a2bf3b387055b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset main.png using Guid(d184db0d22858c845a2bf3b387055b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a1b9ab160cec1b0141bfe239e037b5e') in 0.024590 seconds 
+  Import took 0.029853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Sprites/House asset hedgedog.png
+  artifactKey: Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog.png using Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '018c7d5933d4fb3bf12aff7d8f2e2dbd') in 0.023665 seconds 
+  Import took 0.028996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Sprites/House asset blackcat.png
+  artifactKey: Guid(d1c818cb8576c134ea646cadd8df2099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset blackcat.png using Guid(d1c818cb8576c134ea646cadd8df2099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc969c2a59bd1376ee87e07ff35285fc') in 0.020314 seconds 
+  Import took 0.025872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Sprites/House asset Rabbit.png
+  artifactKey: Guid(f6071f47a8570514583e488ea96bf408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset Rabbit.png using Guid(f6071f47a8570514583e488ea96bf408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22bb1643097dc697ade30472f8e4d455') in 0.017923 seconds 
+  Import took 0.022036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Sprites/House asset Shiba.png
+  artifactKey: Guid(69eab774c73c29240a66b7ade1ea202f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset Shiba.png using Guid(69eab774c73c29240a66b7ade1ea202f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4bad1ee1e20277d0becebb84fef375b') in 0.022538 seconds 
+  Import took 0.027364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.706906 seconds.
+  path: Assets/Sprites/House asset blackcat.png
+  artifactKey: Guid(d1c818cb8576c134ea646cadd8df2099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset blackcat.png using Guid(d1c818cb8576c134ea646cadd8df2099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d48e521c0cf203891ce90823bce9a04') in 0.021686 seconds 
+  Import took 0.025881 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005240 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.272 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1272ms)
+		BeginReloadAssembly (149ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (43ms)
+		EndReloadAssembly (1035ms)
+			LoadAssemblies (122ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (392ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (359ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (92ms)
+				ProcessInitializeOnLoadAttributes (241ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1582 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.4 MB.
+System memory in use after: 71.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2025.
+Total: 3.553800 ms (FindLiveObjects: 0.291200 ms CreateObjectMapping: 0.068900 ms MarkObjects: 3.146900 ms  DeleteObjects: 0.045300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 92.564857 seconds.
+  path: Assets/Sprites/House asset bear.png
+  artifactKey: Guid(f6597b487792e9b40a46f83c839daab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset bear.png using Guid(f6597b487792e9b40a46f83c839daab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e59b6625c1f005bdee87aa6ad20cafb8') in 0.060740 seconds 
+  Import took 0.064369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.249164 seconds.
+  path: Assets/Sprites/House asset bear.png
+  artifactKey: Guid(f6597b487792e9b40a46f83c839daab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset bear.png using Guid(f6597b487792e9b40a46f83c839daab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20e387c09d97430ef0463e4b80a6b8c8') in 0.186400 seconds 
+  Import took 0.189932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.661777 seconds.
+  path: Assets/Sprites/House asset blackcat.png
+  artifactKey: Guid(d1c818cb8576c134ea646cadd8df2099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset blackcat.png using Guid(d1c818cb8576c134ea646cadd8df2099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e2ff38b7d466ef2ec034f707e590f08') in 0.189580 seconds 
+  Import took 0.195328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.608433 seconds.
+  path: Assets/Sprites/House asset hedgedog.png
+  artifactKey: Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog.png using Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa8f9f33d9487159dfc7e7623b01469d') in 0.021477 seconds 
+  Import took 0.027230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.816564 seconds.
+  path: Assets/Sprites/House asset hedgedog.png
+  artifactKey: Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog.png using Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6f530d96bbbec41a0f21573a331afdf') in 0.171353 seconds 
+  Import took 0.175664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.067234 seconds.
+  path: Assets/Sprites/House asset main.png
+  artifactKey: Guid(d184db0d22858c845a2bf3b387055b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset main.png using Guid(d184db0d22858c845a2bf3b387055b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9a3c9e3ab320d49f66534661f88d636') in 0.018107 seconds 
+  Import took 0.022675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.711732 seconds.
+  path: Assets/Sprites/House asset main.png
+  artifactKey: Guid(d184db0d22858c845a2bf3b387055b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset main.png using Guid(d184db0d22858c845a2bf3b387055b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '671a5321d7fb3984c56847e3b28c7d26') in 0.165620 seconds 
+  Import took 0.169581 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005416 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.295 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1295ms)
+		BeginReloadAssembly (150ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1060ms)
+			LoadAssemblies (112ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (399ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (380ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (242ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1622 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 75.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2174.
+Total: 3.544100 ms (FindLiveObjects: 0.252500 ms CreateObjectMapping: 0.116600 ms MarkObjects: 3.131600 ms  DeleteObjects: 0.042100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1188.371157 seconds.
+  path: Assets/Sprites/House asset hedgedog_0.asset
+  artifactKey: Guid(d7ef2ab8f80b5e84dbd40ef50b9c8a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_0.asset using Guid(d7ef2ab8f80b5e84dbd40ef50b9c8a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aecabf62fc68f92d204f85f11cc5af7b') in 0.083940 seconds 
+  Import took 0.090228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Sprites/House asset hedgedog_20.asset
+  artifactKey: Guid(0ee69849d0fb6ac4ea7d91847bfeffd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_20.asset using Guid(0ee69849d0fb6ac4ea7d91847bfeffd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e1b491cf82f042760f5343768305ac') in 0.023489 seconds 
+  Import took 0.029389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Sprites/House asset hedgedog_29.asset
+  artifactKey: Guid(6f82a530301afd349b278011db84c902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_29.asset using Guid(6f82a530301afd349b278011db84c902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e09aa6688e55a5f5a0a0319eede8ee') in 0.024421 seconds 
+  Import took 0.029533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Sprites/House asset hedgedog_6.asset
+  artifactKey: Guid(13977918899ef3a43bd4665049a8b3fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_6.asset using Guid(13977918899ef3a43bd4665049a8b3fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d88096ae51122608ea4c1af6ba63e2e') in 0.016919 seconds 
+  Import took 0.020539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Sprites/House asset hedgedog_23.asset
+  artifactKey: Guid(b4eb9f621c420d440a6fd4c66a3811a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_23.asset using Guid(b4eb9f621c420d440a6fd4c66a3811a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e691d8c1fb75d61fb5b01be41fbd003c') in 0.020713 seconds 
+  Import took 0.025480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Sprites/House asset hedgedog_15.asset
+  artifactKey: Guid(dcf6f523699e21c4b99a24f70658df80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_15.asset using Guid(dcf6f523699e21c4b99a24f70658df80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e8feb09c2c8302f5357219be449e936') in 0.020964 seconds 
+  Import took 0.025728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Sprites/House asset hedgedog_19.asset
+  artifactKey: Guid(570ca67c649b93f408aa08b5d8345b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_19.asset using Guid(570ca67c649b93f408aa08b5d8345b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f467c516d3242e74dd1cdeb4226e53ae') in 0.017921 seconds 
+  Import took 0.022393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Sprites/House asset hedgedog_9.asset
+  artifactKey: Guid(ba1693672f8ebd74f8b3b3ca03ee43e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_9.asset using Guid(ba1693672f8ebd74f8b3b3ca03ee43e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c334094cebfa4b14b1119842ebda3ff0') in 0.018062 seconds 
+  Import took 0.022780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000540 seconds.
+  path: Assets/Sprites/House asset hedgedog_7.asset
+  artifactKey: Guid(034a6b68cefce554e80b8f2565e0c95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_7.asset using Guid(034a6b68cefce554e80b8f2565e0c95f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4987ef5008f39000da116aa4d722abf') in 0.026096 seconds 
+  Import took 0.031107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Sprites/House asset hedgedog_24.asset
+  artifactKey: Guid(7ea28ec397c45b44caec4a843bc6e084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_24.asset using Guid(7ea28ec397c45b44caec4a843bc6e084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bc3dd75c01fcd7dbb435f7cd3e09843') in 0.021030 seconds 
+  Import took 0.026516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Sprites/House asset hedgedog_11.asset
+  artifactKey: Guid(9746d0a1620e2cc48afd2c4695eef59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_11.asset using Guid(9746d0a1620e2cc48afd2c4695eef59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2818383fb1784101d03a12c4e569a9ac') in 0.016685 seconds 
+  Import took 0.021519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Sprites/House asset hedgedog_18.asset
+  artifactKey: Guid(10262a9dd377e314cbd1958923ff66ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_18.asset using Guid(10262a9dd377e314cbd1958923ff66ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5535ff7ef985a99f53d932480f30dd5') in 0.018357 seconds 
+  Import took 0.022158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000710 seconds.
+  path: Assets/Sprites/House asset hedgedog_5.asset
+  artifactKey: Guid(18800f1dd61eb724d8ea87071b4c0c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_5.asset using Guid(18800f1dd61eb724d8ea87071b4c0c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc00556beeae24af38fe39716d96e2c') in 0.023675 seconds 
+  Import took 0.029003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Sprites/House asset hedgedog_26.asset
+  artifactKey: Guid(d358a6a5cbe827c4d81e8c62c673caae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_26.asset using Guid(d358a6a5cbe827c4d81e8c62c673caae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3c3b303f18513079723f4d4b948e22c') in 0.017546 seconds 
+  Import took 0.023159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Sprites/House asset hedgedog_4.asset
+  artifactKey: Guid(c0a8739f2a564704da88cb5ae44f2963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_4.asset using Guid(c0a8739f2a564704da88cb5ae44f2963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '296f463fc78ec88f2629fe0e7a35ac9a') in 0.018335 seconds 
+  Import took 0.023240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Sprites/House asset hedgedog_3.asset
+  artifactKey: Guid(43aa467a111f2ed4087839ac1fb00904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_3.asset using Guid(43aa467a111f2ed4087839ac1fb00904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d36f58ca4de05785e82dbec2ecd19a') in 0.018566 seconds 
+  Import took 0.023408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Sprites/House asset hedgedog_16.asset
+  artifactKey: Guid(1f34421de88aaab46a17934b84ba6158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_16.asset using Guid(1f34421de88aaab46a17934b84ba6158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd081e515da58e80961440b6a8f592103') in 0.019174 seconds 
+  Import took 0.023897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Sprites/House asset hedgedog_10.asset
+  artifactKey: Guid(b94f8d5629969a14db4fdc7a295eac88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_10.asset using Guid(b94f8d5629969a14db4fdc7a295eac88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ff6f8eaf88a390099908abf0fcd0cd9') in 0.017385 seconds 
+  Import took 0.021316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Sprites/House asset hedgedog_21.asset
+  artifactKey: Guid(3247db1b3b1f0224e88c460d1d8850d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_21.asset using Guid(3247db1b3b1f0224e88c460d1d8850d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c35854114eea5168c835d763f628b8a1') in 0.018085 seconds 
+  Import took 0.022519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Sprites/House asset hedgedog_8.asset
+  artifactKey: Guid(f8383351e898c174f9ffde3bc6f0209f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_8.asset using Guid(f8383351e898c174f9ffde3bc6f0209f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5433ac49ab5887f8768c1429f071f7ff') in 0.016101 seconds 
+  Import took 0.020793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Sprites/House asset hedgedog_13.asset
+  artifactKey: Guid(7deff11827ef40c40bd483e45d1155b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_13.asset using Guid(7deff11827ef40c40bd483e45d1155b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d1b1f7bed502fc388564d702d26716d') in 0.019973 seconds 
+  Import took 0.023351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Sprites/House asset hedgedog_17.asset
+  artifactKey: Guid(35801b39a43a6334abb5ab352b510805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_17.asset using Guid(35801b39a43a6334abb5ab352b510805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad88b26de109407c5c3223e6322eb106') in 0.017385 seconds 
+  Import took 0.022834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Sprites/House asset hedgedog_28.asset
+  artifactKey: Guid(649b6c1449240f04fa120a4e0b9cf4b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_28.asset using Guid(649b6c1449240f04fa120a4e0b9cf4b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7496140a609047497385a38003673a') in 0.018595 seconds 
+  Import took 0.023871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Sprites/House asset hedgedog_22.asset
+  artifactKey: Guid(c5f5f3875d7643c44967a078e894d195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_22.asset using Guid(c5f5f3875d7643c44967a078e894d195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96e131f312850e5c9e5f7fd4d0d9384') in 0.018491 seconds 
+  Import took 0.022802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Sprites/House asset hedgedog_2.asset
+  artifactKey: Guid(9f008ac845ec9eb41a586526d5170c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_2.asset using Guid(9f008ac845ec9eb41a586526d5170c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0701bdb5c807e8b565a08743a18cf150') in 0.018332 seconds 
+  Import took 0.022213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Sprites/House asset hedgedog_27.asset
+  artifactKey: Guid(6ed0b0a10babd494d811d4939976cef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_27.asset using Guid(6ed0b0a10babd494d811d4939976cef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '812e32c087aeef797c37a63322fe0e8b') in 0.018638 seconds 
+  Import took 0.023271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Sprites/House asset hedgedog_30.asset
+  artifactKey: Guid(686294290a392f045bbe0a9b17d0dac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_30.asset using Guid(686294290a392f045bbe0a9b17d0dac3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5adcb5a0924c1579686244c5560d3e8e') in 0.017651 seconds 
+  Import took 0.022575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Sprites/House asset hedgedog_14.asset
+  artifactKey: Guid(d04901c5fc796c34b8edebb318db77a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_14.asset using Guid(d04901c5fc796c34b8edebb318db77a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4575ada0e4b85940dcd4c5be9275d9cf') in 0.018247 seconds 
+  Import took 0.021668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Sprites/House asset hedgedog_25.asset
+  artifactKey: Guid(418db5334a6614249ad408d136bb24dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_25.asset using Guid(418db5334a6614249ad408d136bb24dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dedf94ad929b5c32a7c0dd52ab34ada') in 0.016508 seconds 
+  Import took 0.020339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Sprites/House asset hedgedog_1.asset
+  artifactKey: Guid(36ad23e0bf970824ca22b241dc7a1b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_1.asset using Guid(36ad23e0bf970824ca22b241dc7a1b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab0294f6c9508f8f2f15e0b3c45e007') in 0.018681 seconds 
+  Import took 0.022659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Sprites/House asset hedgedog_12.asset
+  artifactKey: Guid(cdaba7aa0e090ae46a70dbe74316594f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_12.asset using Guid(cdaba7aa0e090ae46a70dbe74316594f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd20efaa40db8c1c578b5ef65f3f0316') in 0.016732 seconds 
+  Import took 0.020154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.088700 seconds.
+  path: Assets/Sprites/House asset hedgedog_31.asset
+  artifactKey: Guid(5416578fb53fb504598a6ed33ec2bd1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_31.asset using Guid(5416578fb53fb504598a6ed33ec2bd1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94487ed9f7327facc7c24ba99885e699') in 0.016210 seconds 
+  Import took 0.019776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Sprites/House asset hedgedog_32.asset
+  artifactKey: Guid(8fa61b18ea5fbec40989aa0daa543ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_32.asset using Guid(8fa61b18ea5fbec40989aa0daa543ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ea46922c1f3a8fab2688c21a50c8ca') in 0.017453 seconds 
+  Import took 0.021317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Sprites/House asset hedgedog_34.asset
+  artifactKey: Guid(1b745f7d9a31d68478d954f0d3062b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_34.asset using Guid(1b745f7d9a31d68478d954f0d3062b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3a54c92fd40a0ac9584b1cfaa6b2921') in 0.018458 seconds 
+  Import took 0.022368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Sprites/House asset hedgedog_37.asset
+  artifactKey: Guid(6769c2dd81f2c58409b6cb19e4a7d7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_37.asset using Guid(6769c2dd81f2c58409b6cb19e4a7d7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a598aee6645169a5ec1a23728c3fb2a0') in 0.015807 seconds 
+  Import took 0.021909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000568 seconds.
+  path: Assets/Sprites/House asset hedgedog_35.asset
+  artifactKey: Guid(cffa5f5c2ff716e478cc911e6ced1a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_35.asset using Guid(cffa5f5c2ff716e478cc911e6ced1a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f21a7fc1eb020e6dde5ad96d544ae7c1') in 0.020698 seconds 
+  Import took 0.024775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000776 seconds.
+  path: Assets/Sprites/House asset hedgedog_38.asset
+  artifactKey: Guid(de8949bc9d4dc9c4fbae3bfaca2bef53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_38.asset using Guid(de8949bc9d4dc9c4fbae3bfaca2bef53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '523ef5123b2560c770c884207b442210') in 0.018097 seconds 
+  Import took 0.023801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Sprites/House asset hedgedog_36.asset
+  artifactKey: Guid(61715506678e7f34a8af7fb694288869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_36.asset using Guid(61715506678e7f34a8af7fb694288869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb30fd5932565f25feafe8bdb983ee69') in 0.020123 seconds 
+  Import took 0.025021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Sprites/House asset hedgedog_33.asset
+  artifactKey: Guid(b7ec0b5adff9ad141b4ab0b6f2c776ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog_33.asset using Guid(b7ec0b5adff9ad141b4ab0b6f2c776ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f568512ea66597159d5b6dacfd18d59') in 0.019655 seconds 
+  Import took 0.026284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.562473 seconds.
+  path: Assets/Sprites/House asset hedgedog.png
+  artifactKey: Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog.png using Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '819cc8b8f165ff8031904c1cafcebac4') in 0.171622 seconds 
+  Import took 0.177338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.947497 seconds.
+  path: Assets/Sprites/House asset hedgedog.png
+  artifactKey: Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog.png using Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4532f1331d1631c48caf11fba6823a5') in 0.144319 seconds 
+  Import took 0.148699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.910264 seconds.
+  path: Assets/Sprites/House asset hedgedog.png
+  artifactKey: Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog.png using Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '176917505c963a008342e626306d10a7') in 0.153051 seconds 
+  Import took 0.156424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.676894 seconds.
+  path: Assets/Sprites/House asset hedgedog.png
+  artifactKey: Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset hedgedog.png using Guid(0c349d61fef76ed4299b4949ab090d0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed105d7a4cd0bcf0b6932479234b5b84') in 0.152741 seconds 
+  Import took 0.157696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2149.912554 seconds.
+  path: Assets/Sprites/PC Computer - Undertale - Home and New Home.png
+  artifactKey: Guid(7254e96ed976ec949af467c1e401e2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PC Computer - Undertale - Home and New Home.png using Guid(7254e96ed976ec949af467c1e401e2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e191d98899c9681933229dde11598a57') in 0.026595 seconds 
+  Import took 0.033265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.587966 seconds.
+  path: Assets/Sprites/PC Computer - Undertale - Home and New Home.png
+  artifactKey: Guid(7254e96ed976ec949af467c1e401e2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PC Computer - Undertale - Home and New Home.png using Guid(7254e96ed976ec949af467c1e401e2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ba58e31dabe9cf2a1783353903fce6') in 0.048145 seconds 
+  Import took 0.052365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 420.309971 seconds.
+  path: Assets/Sprites/PC Computer - Undertale - Home and New Home.png
+  artifactKey: Guid(7254e96ed976ec949af467c1e401e2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PC Computer - Undertale - Home and New Home.png using Guid(7254e96ed976ec949af467c1e401e2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a2e3e7197ebcbfea9d576049be56278') in 0.040769 seconds 
+  Import took 0.046579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.625385 seconds.
+  path: Assets/Sprites/PC Computer - Undertale - Home and New Home.png
+  artifactKey: Guid(7254e96ed976ec949af467c1e401e2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/PC Computer - Undertale - Home and New Home.png using Guid(7254e96ed976ec949af467c1e401e2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f25b7ca5691529af0bb75e9fa1f85050') in 0.026811 seconds 
+  Import took 0.030540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.444610 seconds.
+  path: Assets/Sprites/House asset Rabbit.png
+  artifactKey: Guid(f6071f47a8570514583e488ea96bf408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset Rabbit.png using Guid(f6071f47a8570514583e488ea96bf408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e756f1ab805c9271cc858aff6ae28656') in 0.023462 seconds 
+  Import took 0.029689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13798.657748 seconds.
+  path: Assets/Sprites/New Palette.prefab
+  artifactKey: Guid(2f85725b3fdecef48ba1acf74082c248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Palette.prefab using Guid(2f85725b3fdecef48ba1acf74082c248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29778e34aa91ce973d3197ebbb182cec') in 0.154562 seconds 
+  Import took 0.167853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 432.996645 seconds.
+  path: Assets/Tilemap/New Palette.prefab
+  artifactKey: Guid(3b88e3cd33859d1439e4ff0b0c6acefd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap/New Palette.prefab using Guid(3b88e3cd33859d1439e4ff0b0c6acefd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb757820ea7809102cef0f3f3edc3172') in 0.059714 seconds 
+  Import took 0.064794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.188077 seconds.
+  path: Assets/Sprites/House asset blackcat_22.asset
+  artifactKey: Guid(0298975232c802e4091f4553e2bbf720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset blackcat_22.asset using Guid(0298975232c802e4091f4553e2bbf720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd97e1953bfcb4dfc0840aa25fe64ea1') in 0.047818 seconds 
+  Import took 0.053300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Sprites/House asset blackcat_25.asset
+  artifactKey: Guid(f7c2eb50c240f2b4b8d63e219d3dd5d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset blackcat_25.asset using Guid(f7c2eb50c240f2b4b8d63e219d3dd5d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7b22438feeab007e8d03147268e7bee') in 0.021923 seconds 
+  Import took 0.028005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Sprites/House asset blackcat_24.asset
+  artifactKey: Guid(a4a1ae83a11957947be51397fd6cdc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset blackcat_24.asset using Guid(a4a1ae83a11957947be51397fd6cdc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8125aa02ef97d7f3af2a86e516270d3f') in 0.021676 seconds 
+  Import took 0.026953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Sprites/House asset blackcat_23.asset
+  artifactKey: Guid(11940a9a68bf2d747a8ba95506cbf219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset blackcat_23.asset using Guid(11940a9a68bf2d747a8ba95506cbf219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b1565c637aec234acffe767811ca8c4') in 0.018255 seconds 
+  Import took 0.023414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.753897 seconds.
+  path: Assets/Sprites/House asset blackcat.png
+  artifactKey: Guid(d1c818cb8576c134ea646cadd8df2099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset blackcat.png using Guid(d1c818cb8576c134ea646cadd8df2099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b9f392502ee22decd470be2ce03d88') in 0.223030 seconds 
+  Import took 0.226699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.374389 seconds.
+  path: Assets/Sprites/New Palette.prefab
+  artifactKey: Guid(2f85725b3fdecef48ba1acf74082c248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Palette.prefab using Guid(2f85725b3fdecef48ba1acf74082c248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73234d4d2fd8c2b24db70bc18e829a51') in 0.019397 seconds 
+  Import took 0.024720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 123.482964 seconds.
+  path: Assets/Sprites/House asset bear_15.asset
+  artifactKey: Guid(f81876fbc31e2a34eb448bba15d62961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset bear_15.asset using Guid(f81876fbc31e2a34eb448bba15d62961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4033d861ae570d5b5f26587df9546bd2') in 0.021966 seconds 
+  Import took 0.028124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/Sprites/House asset bear_18.asset
+  artifactKey: Guid(f252685ac25e051419d43975da196552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset bear_18.asset using Guid(f252685ac25e051419d43975da196552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58665bef4b22bae664198a340140c701') in 0.032221 seconds 
+  Import took 0.037493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Sprites/House asset bear_16.asset
+  artifactKey: Guid(16e19308f778dde4fa510316b0b37936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset bear_16.asset using Guid(16e19308f778dde4fa510316b0b37936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd48bf402c66d0f9804fa3e9fba204f1d') in 0.019746 seconds 
+  Import took 0.025667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Sprites/House asset bear_17.asset
+  artifactKey: Guid(b25ead8a682b014449199926fed7ac71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset bear_17.asset using Guid(b25ead8a682b014449199926fed7ac71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15e61deeeab3663397581cd20f73d370') in 0.020398 seconds 
+  Import took 0.025403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.442141 seconds.
+  path: Assets/Sprites/House asset bear.png
+  artifactKey: Guid(f6597b487792e9b40a46f83c839daab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/House asset bear.png using Guid(f6597b487792e9b40a46f83c839daab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '200959b7a36a965b089a5000078df355') in 0.199666 seconds 
+  Import took 0.204238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 101.559775 seconds.
+  path: Assets/Sprites/New Palette.prefab
+  artifactKey: Guid(2f85725b3fdecef48ba1acf74082c248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/New Palette.prefab using Guid(2f85725b3fdecef48ba1acf74082c248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9866f0b2185866b95a6d5e9db08057d') in 0.024142 seconds 
+  Import took 0.028975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 305.261036 seconds.
+  path: Assets/Scene/Scene_Oda.unity
+  artifactKey: Guid(3983988c8e096ec4e878afef34f27035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene/Scene_Oda.unity using Guid(3983988c8e096ec4e878afef34f27035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cda4ae2c1901628e78d993738ecddb4') in 0.013022 seconds 
+  Import took 0.019379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.856642 seconds.
+  path: Assets/Scene/Scene_Koridor.unity
+  artifactKey: Guid(47df5eb896e462943a083406c09b31b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene/Scene_Koridor.unity using Guid(47df5eb896e462943a083406c09b31b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62163dd89df871462091c627f4f4e0a2') in 0.012476 seconds 
+  Import took 0.017290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.342697 seconds.
+  path: Assets/Scene/Scene_Oda.unity
+  artifactKey: Guid(3983988c8e096ec4e878afef34f27035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scene/Scene_Oda.unity using Guid(3983988c8e096ec4e878afef34f27035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1f40fa1039f0e021b0c7c4d5dab3422') in 0.003798 seconds 
+  Import took 0.008053 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
