@@ -54,9 +54,10 @@ Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır
 * ### Backlog düzeni ve Story seçimleri:
 Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 * ### Daily Scrum: 
-Daily Scrum zamansal ve özel sebeplerden ötürü çoğunlukla WhatsApp grubu üzerinden olmuş ve daha ayrıntılı görebilmek için word dosyasına işlenmiştir. [Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1odjZ4dcRaoeTCmS3Tk_kDCtjD3aJ7dJpsaZ8L1x74KY/edit)
+Daily Scrum zamansal ve özel sebeplerden ötürü çoğunlukla WhatsApp grubu üzerinden olmuş ve daha ayrıntılı görebilmek için word dosyasına işlenmiştir. [Sprint 2 Daily Scrum Chats](https://docs.google.com/document/d/1odjZ4dcRaoeTCmS3Tk_kDCtjD3aJ7dJpsaZ8L1x74KY/edit)
 * ### Sprint board update:
-Sprint board screenshotları:![scrum](https://user-images.githubusercontent.com/101967210/167492746-b528e900-4478-4990-8b78-ca5afc8241b7.JPG)
+Sprint board screenshotları:![hthththt](https://user-images.githubusercontent.com/101967210/169885459-d3a0db92-3f92-4e41-9a2e-f363ceda8bb0.JPG)
+
 * ### Ürün Durumu:
 * ![ggegeg](https://user-images.githubusercontent.com/101967210/169884670-f96d34e8-8fbf-4ce7-8ff8-db79ff7ee4d1.JPG)
 ![ggf](https://user-images.githubusercontent.com/101967210/169884677-ee6bb6ef-5614-4be3-a245-8bd0d0f64658.JPG)
