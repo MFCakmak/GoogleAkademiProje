@@ -57,36 +57,41 @@
     <Compile Include="Assets\Assets\Joystick Pack\Scripts\Base\Joystick.cs" />
     <Compile Include="Assets\Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
     <Compile Include="Assets\Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
+    <Compile Include="Assets\Kodlar\Karakter\KarakterCan.cs" />
     <Compile Include="Assets\Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />
-    <Compile Include="Assets\Scripts\Karakter\CharacterController.cs" />
-    <Compile Include="Assets\Scripts\Karakter\TouchMove.cs" />
+    <Compile Include="Assets\Kodlar\Karakter\CharacterController.cs" />
+    <Compile Include="Assets\Kodlar\Karakter\TouchMove.cs" />
     <Compile Include="Assets\Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Assets\Joystick Pack\Examples\JoystickPlayerExample.cs" />
-    <Compile Include="Assets\Scripts\OyunYoneticisi\GameManager.cs" />
-    <Compile Include="Assets\Scripts\Karakter\KarakterCan.cs" />
+    <Compile Include="Assets\Kodlar\OyunYoneticisi\GameManager.cs" />
+    <Compile Include="Assets\Kodlar\Butonlar\İlerikiSeviye.cs" />
+    <Compile Include="Assets\Kodlar\LevelYoneticisi\DigerOdaGecis.cs" />
+    <Compile Include="Assets\Kodlar\Karakter\BuyuAtis.cs" />
+    <Compile Include="Assets\Kodlar\Yetenekler\BuyuHareket.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
-    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
-    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
-    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
-    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\Paketler\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\Paketler\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\Paketler\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Paketler\Buyuler\Read Me.txt" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\Paketler\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -743,6 +748,9 @@
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.DeviceSimulator.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.DeviceSimulator.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Mathematics.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
@@ -760,9 +768,6 @@
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.DeviceSimulator.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.DeviceSimulator.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
