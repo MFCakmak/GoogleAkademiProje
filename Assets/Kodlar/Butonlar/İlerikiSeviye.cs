@@ -5,8 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class İlerikiSeviye : MonoBehaviour
 {
-   public void İlerikiseviye()
+    public void İlerikiseviye()
     {
+        StartCoroutine(leveleGecmedenBeklet());
+    }
+
+    IEnumerator leveleGecmedenBeklet()
+    {
+        yield return new WaitForSeconds(1f);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }

@@ -55,8 +55,10 @@
   <ItemGroup>
     <Compile Include="Assets\Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs" />
     <Compile Include="Assets\Assets\Joystick Pack\Scripts\Base\Joystick.cs" />
+    <Compile Include="Assets\Kodlar\LevelYoneticisi\DigerOdaGecis.cs" />
     <Compile Include="Assets\Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
     <Compile Include="Assets\Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
+    <Compile Include="Assets\Kodlar\Karakter\BuyuAtis.cs" />
     <Compile Include="Assets\Kodlar\Karakter\KarakterCan.cs" />
     <Compile Include="Assets\Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />
     <Compile Include="Assets\Kodlar\Karakter\CharacterController.cs" />
@@ -64,10 +66,9 @@
     <Compile Include="Assets\Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Assets\Joystick Pack\Examples\JoystickPlayerExample.cs" />
     <Compile Include="Assets\Kodlar\OyunYoneticisi\GameManager.cs" />
-    <Compile Include="Assets\Kodlar\Butonlar\İlerikiSeviye.cs" />
-    <Compile Include="Assets\Kodlar\LevelYoneticisi\DigerOdaGecis.cs" />
-    <Compile Include="Assets\Kodlar\Karakter\BuyuAtis.cs" />
     <Compile Include="Assets\Kodlar\Yetenekler\BuyuHareket.cs" />
+    <Compile Include="Assets\Kodlar\Butonlar\İlerikiSeviye.cs" />
+    <Compile Include="Assets\Kodlar\SesKodu\SesKodu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMPro.cginc" />
