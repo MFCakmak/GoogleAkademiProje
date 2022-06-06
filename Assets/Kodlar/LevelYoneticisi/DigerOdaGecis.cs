@@ -14,7 +14,7 @@ public class DigerOdaGecis : MonoBehaviour
         if (collision.gameObject.CompareTag("DigerOda"))
         {
             Debug.Log("Temas Var");
-            _gameManager.ÝleriSeviye();
+           // _gameManager.ï¿½leriSeviye();
         }
     }
   
