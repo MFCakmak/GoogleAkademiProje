@@ -47,6 +47,7 @@
      <Compile Include="Assets\Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
      <Compile Include="Assets\Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
      <Compile Include="Assets\Kodlar\Karakter\BuyuAtis.cs" />
+     <Compile Include="Assets\Kodlar\Dusman\dusman_ates.cs" />
      <Compile Include="Assets\Kodlar\Karakter\KarakterCan.cs" />
      <Compile Include="Assets\Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />
      <Compile Include="Assets\Kodlar\SesKodu\SesKodu.cs" />
@@ -57,7 +58,6 @@
      <Compile Include="Assets\Kodlar\OyunYoneticisi\GameManager.cs" />
      <Compile Include="Assets\Kodlar\Yetenekler\BuyuHareket.cs" />
      <Compile Include="Assets\Kodlar\Butonlar\İlerikiSeviye.cs" />
-     <Compile Include="Assets\Kodlar\Dusman\dusman_ates.cs" />
      <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\Paketler\TextMesh Pro\Shaders\TMP_Bitmap.shader" />

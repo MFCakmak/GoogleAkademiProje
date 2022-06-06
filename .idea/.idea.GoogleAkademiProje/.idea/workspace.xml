@@ -5,16 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2461bbfe-c9bf-4d0d-a492-10faa4dd91e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GoogleAkademiProje/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GoogleAkademiProje/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kodlar/LevelYoneticisi/DigerOdaGecis.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kodlar/LevelYoneticisi/DigerOdaGecis.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kodlar/Dusman/dusman_ates.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kodlar/Dusman/dusman_ates.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Paketler/Monsters Creatures Fantasy/Animations/Flying eye/Flight_0.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Paketler/Monsters Creatures Fantasy/Animations/Flying eye/Flight_0.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Paketler/Monsters Creatures Fantasy/Animations/Flying eye/Flyingeye_anim.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Paketler/Monsters Creatures Fantasy/Animations/Flying eye/Flyingeye_anim.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Paketler/Monsters Creatures Fantasy/Sprites/Flying eye/Flight.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Paketler/Monsters Creatures Fantasy/Sprites/Flying eye/Flight.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Yetenek1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Yetenek1.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Sahneler/Sahne1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sahneler/Sahne1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +100,7 @@
       <workItem from="1654277835951" duration="647000" />
       <workItem from="1654448521321" duration="2937000" />
       <workItem from="1654472153949" duration="1585000" />
+      <workItem from="1654474169633" duration="1228000" />
     </task>
     <servers />
   </component>

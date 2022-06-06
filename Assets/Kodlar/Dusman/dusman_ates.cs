@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,7 +6,7 @@ using UnityEngine;
 public class dusman_ates : MonoBehaviour
 {
     public float Menzil;
-    
+    public float DusmanCan= 100;
     public Transform Hedef;
     public bool tespitEdildi = false;
 
@@ -55,6 +56,21 @@ public class dusman_ates : MonoBehaviour
         }
 
         
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if(collision.gameObject.CompareTag("Buyu"))
+        {
+            DusmanCan -= 25f;
+            //anim.SetBool("grounded", true);
+            //grounded = true;
+        }
+
+        if (DusmanCan == 0)
+        {
+            Destroy(this);
+        }
     }
 
     void Ates()
